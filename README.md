@@ -1,38 +1,11 @@
 
 # 365 Data Science Bootcamp Full Course
 
-<<<<<<< HEAD
 A brief description of what this project.
 
-=======
-A brief description of what this project
->>>>>>> 07069be96917c9438799f6b4675c9762ee856138
 ![](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/blob/personal/Udemy_The_Data_Science_Course_2021_Complete_Data_Science_Bootcamp.jpg)
 
 ## Features
-
-<<<<<<< HEAD
-- 01 Intro to Datascience
-- 02 Intro to Excel
-- 03 Advance Excel
-- 04 Probabilities
-- 05 Statistics
-- 07 Tablue
-- 08 PowerBI
-- 09 SQL
-- 10 SQL + Tablue
-- 11 Introduction to Python
-- 12 Python Programmer Bootcamp
-- 14 Intro to R
-- 15 Advance Statistical Modelling With Python
-- 16 Deep Learning
-- 17 Deep Learning 2
-- 18 SQL + Tablue + python
-- 19 Credit Risk Modelling in Python
-- 20 Time Series in Python
-- 21 Customer Analytics in Python
-- 22 Web Scraping & API Fundamentals in Python
-=======
 - [01 Intro to Datascience](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/tree/personal/01.%20Intro%20to%20Datascience%2F)
 - [02 Intro to Excel](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/tree/personal/02.%20Intro%20to%20Excel%2F)
 - [03 Advance Excel](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/tree/personal/03.%20Advance%20Excel%2F)
@@ -53,8 +26,5 @@ A brief description of what this project
 - [20 Time Series in Python](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/tree/personal/20.%20Time%20Series%20in%20Python%2F)
 - [21 Customer Analytics in Python](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/tree/personal/21.%20Customer%20Analytics%20in%20Python%2F)
 - [22 Web Scraping & API Fundamentals in Python](https://github.com/shubhamjagtap2126/365DatascienceMasterCourse/tree/personal/22.%20Web%20Scraping%20%26%20API%20Fundamentals%20in%20Python%2F)
-
-
->>>>>>> 07069be96917c9438799f6b4675c9762ee856138
 
 
