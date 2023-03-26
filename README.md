@@ -1,5 +1,5 @@
 
-# 365 Data Science Bootcamp Full Course
+# Data Science Course Practice
 
 A brief description of what this project.
 
